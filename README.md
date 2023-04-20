@@ -1,6 +1,6 @@
 # :office: K-ICT 분석 인프라 활용 AI
 
-## :mag: [교육 사이트 링크](https://kbig.kr/portal/) (2023/4/10 ~ 2023/4/23)
+## :mag: [교육 사이트 링크](https://kbig.kr/portal/) (2023/4/10 ~ 2023/4/23 :date:)
 
 ## :page_with_curl: 교육내용
 
